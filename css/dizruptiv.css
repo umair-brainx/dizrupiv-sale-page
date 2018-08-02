@@ -679,7 +679,7 @@ and (max-width : 1400px) {
 
     width: 104px;
     height: 104px;
-
+    object-fit: scale-down;
 }
 
 .mobile-img{
@@ -1174,6 +1174,36 @@ footer a{
     text-align: left;
     color: #000000;
 
+}
+
+.bonus{
+    background-image: url("../img/bonus/background.png");
+    background-size: cover;
+    background-position: top right;
+}
+
+.bonusContent
+{
+    padding: 100px 15% !important;
+}
+
+.bonus h1{
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.46;
+    letter-spacing: 1.2px;
+    text-align: center;
+    color: #fe0000;
+}
+
+.bonus p{
+    font-size: 20px;;
+}
+
+.bonus .red-text{
+    font-size: 22px;
+    color: #fe0000;
 }
 
 
