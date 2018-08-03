@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b205d921-67af-46b9-837e-452d527d4979" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/css/dizruptiv.css" afterPath="$PROJECT_DIR$/css/dizruptiv.css" />
-      <change beforePath="$PROJECT_DIR$/img/laptop/laptop.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/laptop/img2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/laptop/img3.png" afterPath="$PROJECT_DIR$/img/laptop/img3.png" />
+      <change beforePath="$PROJECT_DIR$/img/laptop/img4.png" afterPath="$PROJECT_DIR$/img/laptop/img4.png" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="311" column="57" lean-forward="false" selection-start-line="311" selection-start-column="57" selection-end-line="311" selection-end-column="57" />
+            <state relative-caret-position="395">
+              <caret line="311" column="64" lean-forward="false" selection-start-line="311" selection-start-column="64" selection-end-line="311" selection-end-column="64" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#hr#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -160,12 +161,12 @@
       <option name="presentableId" value="Default" />
       <updated>1533204244690</updated>
       <workItem from="1533204247489" duration="9292000" />
-      <workItem from="1533283684899" duration="4951000" />
+      <workItem from="1533283684899" duration="5275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14243000" />
+    <option name="totallyTimeSpent" value="14567000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="23" width="1680" height="980" extended-state="6" />
@@ -235,8 +236,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="311" column="57" lean-forward="false" selection-start-line="311" selection-start-column="57" selection-end-line="311" selection-end-column="57" />
+        <state relative-caret-position="395">
+          <caret line="311" column="64" lean-forward="false" selection-start-line="311" selection-start-column="64" selection-end-line="311" selection-end-column="64" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#hr#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
