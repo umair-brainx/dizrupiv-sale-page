@@ -274,6 +274,13 @@ and (max-width : 1024px)  {
 
 }
 
+@media only screen and (min-width: 1370px){
+
+    .bonusContent
+    {
+        padding: 6.5vw 5% !important;
+    }
+}
 
 /*Only for Mobile*/
 @media only screen and (max-width: 768px) {
@@ -1180,11 +1187,12 @@ footer a{
     background-image: url("../img/bonus/background.png");
     background-size: cover;
     background-position: top right;
+    margin-top: 10px;
 }
 
 .bonusContent
 {
-    padding: 100px 15% !important;
+    padding: 3vw 5%;
 }
 
 .bonus h1{
@@ -1195,6 +1203,7 @@ footer a{
     letter-spacing: 1.2px;
     text-align: center;
     color: #fe0000;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 .bonus p{
@@ -1521,5 +1530,9 @@ padding-bottom: 70px;
     left: -38px;
 }
 
+.carousel-indicators
+{
+    bottom: 60px !important;
+}
 
 
