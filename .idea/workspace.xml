@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b205d921-67af-46b9-837e-452d527d4979" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/css/dizruptiv.css" afterPath="$PROJECT_DIR$/css/dizruptiv.css" />
-      <change beforePath="$PROJECT_DIR$/img/bonus/background.png" afterPath="$PROJECT_DIR$/img/bonus/background.png" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,12 +17,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="256" column="94" lean-forward="false" selection-start-line="256" selection-start-column="94" selection-end-line="256" selection-end-column="94" />
+            <state relative-caret-position="309">
+              <caret line="324" column="67" lean-forward="false" selection-start-line="324" selection-start-column="67" selection-end-line="324" selection-end-column="67" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#hr#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -33,8 +33,8 @@
       <file leaf-file-name="dizruptiv.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="1204" column="18" lean-forward="false" selection-start-line="1204" selection-start-column="12" selection-end-line="1204" selection-end-column="18" />
+            <state relative-caret-position="267">
+              <caret line="260" column="0" lean-forward="true" selection-start-line="260" selection-start-column="0" selection-end-line="260" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -53,6 +53,7 @@
       <find>.bonusContent</find>
       <find>.bonus h1</find>
       <find>sneak peek</find>
+      <find>.bonusc</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -157,12 +158,12 @@
       <option name="presentableId" value="Default" />
       <updated>1533204244690</updated>
       <workItem from="1533204247489" duration="9292000" />
-      <workItem from="1533283684899" duration="2406000" />
+      <workItem from="1533283684899" duration="3153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11698000" />
+    <option name="totallyTimeSpent" value="12445000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="23" width="1680" height="980" extended-state="0" />
@@ -208,6 +209,8 @@
             <element signature="n#style#0;n#div#1;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#hr#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -222,20 +225,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/dizruptiv.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="1204" column="18" lean-forward="false" selection-start-line="1204" selection-start-column="12" selection-end-line="1204" selection-end-column="18" />
+        <state relative-caret-position="267">
+          <caret line="260" column="0" lean-forward="true" selection-start-line="260" selection-start-column="0" selection-end-line="260" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="256" column="94" lean-forward="false" selection-start-line="256" selection-start-column="94" selection-end-line="256" selection-end-column="94" />
+        <state relative-caret-position="309">
+          <caret line="324" column="67" lean-forward="false" selection-start-line="324" selection-start-column="67" selection-end-line="324" selection-end-column="67" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#hr#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
