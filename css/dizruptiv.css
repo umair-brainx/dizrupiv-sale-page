@@ -1534,9 +1534,13 @@ padding-bottom: 70px;
     left: -38px;
 }
 
-#demo .carousel-indicators
-{
-    bottom: 60px !important;
+.carousel-parent {
+    position: absolute;
+    top: 7%;
+    height: 81%;
+    overflow: hidden;
+    left: 14%;
+    width: 72%;
 }
 
 
