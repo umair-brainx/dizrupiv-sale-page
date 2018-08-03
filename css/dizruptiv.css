@@ -1534,7 +1534,7 @@ padding-bottom: 70px;
     left: -38px;
 }
 
-.carousel-indicators
+#demo .carousel-indicators
 {
     bottom: 60px !important;
 }
