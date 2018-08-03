@@ -1543,4 +1543,12 @@ padding-bottom: 70px;
     width: 72%;
 }
 
+#demo-mobile .carousel-control-next {
+    background: linear-gradient(to right, transparent, #00000050);
+}
+
+#demo-mobile .carousel-control-prev {
+    background: linear-gradient(to left, transparent, #00000050);
+}
+
 
