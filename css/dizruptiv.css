@@ -604,6 +604,7 @@ and (max-width : 1400px) {
 
     .diz-width{
         width: 80%;
+        max-width: 1150px;
         margin: auto !important;
     }
 
